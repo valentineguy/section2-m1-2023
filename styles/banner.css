@@ -1,0 +1,19 @@
+.banner {
+	background-image: url('../images/turtle.jpg');
+	height: 75vh;
+	background-size: cover;
+	background-position: center;
+	display: flex; 
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner h1{
+	color: white;
+	text-shadow: 4 px 2 px 3 px #0000000ed;
+}
+
+.banner h2{
+	color: white;
+}
